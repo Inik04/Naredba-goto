@@ -1,5 +1,5 @@
 # Naredba-goto
-Osnovno o naredbi goto.
+OSNOVNO O NAREDBI GOTO
 
 Naredba goto omogućuje skokove unutar tijeka izvođenja.
 - u jeziku su skokovi ograniceni na one unutar bloka, 
@@ -14,7 +14,7 @@ NEDOSTATCI:
 - Poteškoće u održavanju koda - GOTO naredba može dovesti do nepreglednog koda, teškoća u razumijevanju i izmjenama.
 - Teškoća u praćenju toka izvršavanja: Skakanje između različitih dijelova koda može otežati praćenje toka izvršavanja, što može dovesti do grešaka u logici programa.
 
-Primjer 1:Napišite program u programskom jeziku C koji koristi goto naredbu za izvršavanje petlje. Program treba ispisati poruku "iteracija: X" gdje je X redni broj iteracije. Petlja treba izvršavati sve dok redni broj iteracije ne pređe 10.
+PRIMJER 1:Napišite program u programskom jeziku C koji koristi goto naredbu za izvršavanje petlje. Program treba ispisati poruku "iteracija: X" gdje je X redni broj iteracije. Petlja treba izvršavati sve dok redni broj iteracije ne pređe 10.
 
 #include <stdio.h>
 
